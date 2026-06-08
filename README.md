@@ -16,15 +16,15 @@ python -m ipykernel install --user --name deep-learning-course --display-name "P
 
 ## Порядок ноутбуков
 
-1. `notebooks/mlp_mnist.ipynb`
-2. `notebooks/cnn_cifar10.ipynb`
-3. `notebooks/text_vectorization.ipynb`
-4. `notebooks/word2vec.ipynb`
-5. `notebooks/logistic_regression.ipynb`
-6. `notebooks/svm_kernels.ipynb`
-7. `notebooks/gradient_boosting.ipynb`
-8. `notebooks/gaussian_process.ipynb`
-9. `notebooks/matrix_factorization.ipynb`
+1. `notebooks/compiter_vision/1_mlp_mnist.ipynb`
+2. `notebooks/compiter_vision/2_cnn_cifar10.ipynb`
+3. `notebooks/nlp_and_sequences/1_text_vectorization.ipynb`
+4. `notebooks/nlp_and_sequences/2_word2vec.ipynb`
+5. `notebooks/classic_ml_and_stats/1_logistic_regression.ipynb`
+6. `notebooks/classic_ml_and_stats/2_svm_kernels.ipynb`
+7. `notebooks/classic_ml_and_stats/3_gradient_boosting.ipynb"`
+8. `notebooks/classic_ml_and_stats/4_gaussian_process.ipynb`
+9. `notebooks/classic_ml_and_stats/5_matrix_factorization.ipynb`
 
 Для последовательного прогона можно использовать:
 
